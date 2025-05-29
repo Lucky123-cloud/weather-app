@@ -118,7 +118,7 @@ export default function Home() {
   if (isLoading)
     return (
       <div className="flex items-center min-h-screen justify-center">
-        <p className="animate-bounce">Loading weather data...</p>
+        <p className="animate-bounce">Relax focast will come...🤷‍♂️</p>
       </div>
     );
     
